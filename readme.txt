@@ -1,0 +1,1 @@
+Weather App inspired by @AsmrProg. App that consist at connecting through an API at https://openweathermap.org/ to search for place's weather around the globe. This project consisted in building 3 files: HTML, CSS and JavaScript in order to set a web page, to design it properly and make it work.
